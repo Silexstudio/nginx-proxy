@@ -147,6 +147,7 @@ To set the default host for nginx use the env var `DEFAULT_HOST=foo.bar.com` for
 
 ### Separate Containers
 
+
 nginx-proxy can also be run as two separate containers using the [jwilder/docker-gen](https://index.docker.io/u/jwilder/docker-gen/)
 image and the official [nginx](https://registry.hub.docker.com/_/nginx/) image.
 
